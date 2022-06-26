@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="findgo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/7.5/testdata/findgo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
